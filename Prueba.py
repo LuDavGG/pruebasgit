@@ -29,4 +29,4 @@ while intento < 8:
         break
 
 if adivina != numero:
-    print(f'Lo siento, intentos agotados, El numero secreto era {numero}.')
+    print(f'Intentos agotados, El numero secreto era {numero}.')
